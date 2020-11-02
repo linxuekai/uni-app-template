@@ -61,7 +61,6 @@
     "regenerator-runtime": "^0.12.1",
     "vue": "^2.6.11",
     "vue-class-component": "^6.3.2",
-    "vue-property-decorator": "^8.0.0",
     "vuex": "^3.2.0"
   },
   "devDependencies": {
@@ -94,6 +93,7 @@
     "miniprogram-api-typings": "*",
     "postcss-comment": "^2.0.0",
     "typescript": "^3.0.0",
+    "vue-property-decorator": "^8.5.1",
     "vue-template-compiler": "^2.6.11"
   },
   "browserslist": [

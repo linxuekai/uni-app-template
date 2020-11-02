@@ -8,19 +8,15 @@
 </template>
 
 <script lang="ts">
-import Vue from 'vue'
-export default Vue.extend({
-  data () {
-    return {
-      title: 'Hello'
-    }
-  },
-  onLoad () {
-  },
-  methods: {
+import { Vue, Component } from 'vue-property-decorator'
 
+@Component({})
+export default class Index extends Vue {
+  title = 'Hello'
+
+  onLoad () {
   }
-})
+}
 </script>
 
 <style>
