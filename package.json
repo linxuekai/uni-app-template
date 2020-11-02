@@ -91,7 +91,9 @@
     "jest": "^25.4.0",
     "mini-types": "*",
     "miniprogram-api-typings": "*",
+    "node-sass": "^5.0.0",
     "postcss-comment": "^2.0.0",
+    "sass-loader": "^10.0.5",
     "typescript": "^3.0.0",
     "vue-property-decorator": "^8.5.1",
     "vue-template-compiler": "^2.6.11"

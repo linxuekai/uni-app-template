@@ -19,7 +19,7 @@ export default class Index extends Vue {
 }
 </script>
 
-<style>
+<style lang="scss">
 .content {
   display: flex;
   flex-direction: column;
